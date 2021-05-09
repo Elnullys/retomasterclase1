@@ -58,26 +58,13 @@ La transformación de la corriente causa una pérdida de energía en forma de ca
 
 <img src="fuente.jpg" width="300">
 
-<strong>Memoria RAM</strong>
-
-La memoria RAM (Random Access Memory) la utiliza el procesador, que coloca los datos ahí para procesarlos.
-
-Las peculiaridades de esta memoria son:
-
-<ol>
-<li>Su velocidad de acceso.</li>
-<li>Su carácter temporal: los datos se pierden una vez que la computadora se apaga.</li>
-</ol> 
-
-<img src="RAM.jpg" width="300">
-
 <H> MODELO OSI </H>
 
 <p>
   es un modelo de referencia para los protocolos de comunicación de las redes informáticas o redes de computadores.
   Fue creado en la década de 1980 por la Organización Internacional de Normalización (ISO).
 </P>
-<H2>¿Cómo funciona el modelo OSI?</H2>
+<H>¿COMO FUNCIONA EL MODELO OSI?</H>
 <P>
 El funcionamiento del Modelo OSI depende directamente de sus siete capas, en las que descompone el complicado proceso de la comunicación digital. Al compartimentarlo, asigna a cada capa funciones muy específicas, dentro de una estructura jerárquica fija.
 <BR>
