@@ -40,6 +40,8 @@ Almacena información en forma binaria. Actualmente, son capaces de almacenar va
 
 <strong>Placa madre</strong>
 
+
+
 Es el componente principal de la unidad central. Centraliza y procesa los datos intercambiados dentro de la computadora usando el procesador. Maneja el disco duro, el teclado, el ratón, la red, los puertos USB...
 
 Es el soporte en el que todos los componentes de una computadora están conectados.
@@ -52,4 +54,15 @@ Por supuesto, sin la corriente eléctrica, la PC no funcionará.
 Este bloque transforma y suministra la energía necesaria a la placa base, pero también está conectado a algunos componentes, como el reproductor/grabadora de DVD, por ejemplo.
 
 La transformación de la corriente causa una pérdida de energía en forma de calor, por lo que la computadora cuenta con un sistema de ventilación que expulsa aire a través de la parte posterior de la carcasa de la computadora.
+
+
+
+
+
+
+
+
+
+<H> MODELO OSI </H>
+
 
