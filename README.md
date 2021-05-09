@@ -56,13 +56,11 @@ Este bloque transforma y suministra la energía necesaria a la placa base, pero 
 La transformación de la corriente causa una pérdida de energía en forma de calor, por lo que la computadora cuenta con un sistema de ventilación que expulsa aire a través de la parte posterior de la carcasa de la computadora.
 
 
-
-
-
-
-
-
-
 <H> MODELO OSI </H>
+
+<p>
+  es un modelo de referencia para los protocolos de comunicación de las redes informáticas o redes de computadores.
+  Fue creado en la década de 1980 por la Organización Internacional de Normalización (ISO).
+</P>
 
 
