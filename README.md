@@ -77,3 +77,4 @@ El funcionamiento del Modelo OSI depende directamente de sus siete capas, en las
 <BR>
 Así, cada protocolo de comunicación emplea estas capas en su totalidad o sólo algunas de ellas, pero al obedecer este conjunto de reglas, garantiza que la comunicación entre las redes sea eficaz y sobre todo que se de en los mismos términos.
 </P>
+<img src="capas.jpg" width="300">
