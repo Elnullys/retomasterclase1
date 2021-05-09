@@ -58,6 +58,13 @@ La transformación de la corriente causa una pérdida de energía en forma de ca
 
 <img src="fuente.jpg" width="300">
 
+<strong>Tarjeta grafica</strong>
+
+Para los juegos, es importante contar con una buena tarjeta gráfica. Se encarga de la visualización de la pantalla, liberando el procesador de esta función.
+
+También puede ser reemplazada por el chipset integrado directamente en la placa base.
+
+<img src="grafica.jpg" width="300">
 <H> MODELO OSI </H>
 
 <p>
@@ -70,6 +77,3 @@ El funcionamiento del Modelo OSI depende directamente de sus siete capas, en las
 <BR>
 Así, cada protocolo de comunicación emplea estas capas en su totalidad o sólo algunas de ellas, pero al obedecer este conjunto de reglas, garantiza que la comunicación entre las redes sea eficaz y sobre todo que se de en los mismos términos.
 </P>
-  
-<H>CAPAS DEL MODELO OSI<H>
-
